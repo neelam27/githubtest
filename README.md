@@ -1,2 +1,3 @@
 # githubtest
-to study github
+to study github with hands-on which will help for better understanding
+
